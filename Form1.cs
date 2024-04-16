@@ -13,6 +13,7 @@ namespace project_2
     public partial class Form1 : Form
     {
         static int zzz = 0;
+        static int zzz1 = 0;
         public Form1()
         {
             InitializeComponent();
